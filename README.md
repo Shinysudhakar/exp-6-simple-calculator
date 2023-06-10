@@ -105,10 +105,10 @@ IDLE:![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/12
 
 
 image
-CALCLUTION:![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/742f4365-9515-4e1b-b3b9-085961082df3)
+![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/742f4365-9515-4e1b-b3b9-085961082df3)
 ![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/daaa2fa7-f551-4eb8-af0a-b309eb412954)
 
 
-image image
+
 RESULT:
 Thus the simple calculator using react js.
