@@ -1,5 +1,3 @@
-# exp-6-simple-calculator
-
 EXP 06 - SIMPLE CALCULATOR USING REACT JS
 AIM:
 To create a simple calculator using react js
@@ -14,6 +12,7 @@ Replace the contents of 'src/App.js" with the following code
 Replace the contents of "src/App.css" with the following CSS styles
 Start the development server: In the terminal, run npm start to start the React development server.
 Open your browser and visit http://localhost:3000 to see the calculator.
+
 PROGRAM:
 APP.JS
 java
@@ -102,10 +101,14 @@ input[type='text'] {
   cursor: pointer;
 }
 OUTPUT:
-IDLE:
+IDLE:![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/dd8138e3-45be-419f-81b2-c7b9d7523070)
+
+
 image
-CALCLUTION:
+CALCLUTION:![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/742f4365-9515-4e1b-b3b9-085961082df3)
+![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/daaa2fa7-f551-4eb8-af0a-b309eb412954)
+
+
 image image
 RESULT:
 Thus the simple calculator using react js.
-
