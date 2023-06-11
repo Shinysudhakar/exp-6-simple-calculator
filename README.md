@@ -1,20 +1,24 @@
-EXP 06 - SIMPLE CALCULATOR USING REACT JS
-AIM:
+# EXP 06 - SIMPLE CALCULATOR USING REACT JS
+
+## AIM:
 To create a simple calculator using react js
 
-SOFTWARE:
+## SOFTWARE:
 Visual Studio Code
 
-ALGORITHM:
-Set up the React environment: Install Node.js and create a new React project using create-react-app. Open your terminal or command prompt and run the following commands
-Open the project in your preferred code editor.
-Replace the contents of 'src/App.js" with the following code
-Replace the contents of "src/App.css" with the following CSS styles
-Start the development server: In the terminal, run npm start to start the React development server.
-Open your browser and visit http://localhost:3000 to see the calculator.
+## ALGORITHM:
 
-PROGRAM:
-APP.JS
+1) Set up the React environment: Install Node.js and create a new React project using create-react-app. Open your terminal or command prompt and run the following commands
+2) Open the project in your preferred code editor.
+3) Replace the contents of 'src/App.js" with the following code
+4) Replace the contents of "src/App.css" with the following CSS styles
+5) Start the development server: In the terminal, run npm start to start the React development server.
+6) Open your browser and visit http://localhost:3000 to see the calculator.
+
+## PROGRAM:
+
+### APP.JS
+```
 java
 import React, { useState } from 'react';
 import './App.css';
@@ -71,7 +75,9 @@ function App() {
 }
 
 export default App;
-APP.CSS:
+```
+### APP.CSS:
+```
 java
 .App {
   text-align: center;
@@ -100,15 +106,19 @@ input[type='text'] {
   font-size: 16px;
   cursor: pointer;
 }
-OUTPUT:
-IDLE:![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/dd8138e3-45be-419f-81b2-c7b9d7523070)
+```
 
+## OUTPUT:
 
-image
-![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/742f4365-9515-4e1b-b3b9-085961082df3)
-![image](https://github.com/Shinysudhakar/exp-6-simple-calculator/assets/127575325/daaa2fa7-f551-4eb8-af0a-b309eb412954)
+### IDLE:
 
+<img width="362" alt="image" src="https://github.com/Monisha-11/SIMPLE-CALCULATOR-USING-REACT-JS/assets/93427240/12a41534-ca5f-479d-b65f-b1930ec3c788">
 
+### CALCLUTION:
 
-RESULT:
+<img width="340" alt="image" src="https://github.com/Monisha-11/SIMPLE-CALCULATOR-USING-REACT-JS/assets/93427240/f976d357-0f63-4b0a-a0f5-6f337aa50db3">
+
+<img width="325" alt="image" src="https://github.com/Monisha-11/SIMPLE-CALCULATOR-USING-REACT-JS/assets/93427240/55fb6cf8-e0ec-4e88-bc2c-6765fa5459cd">
+
+## RESULT:
 Thus the simple calculator using react js.
